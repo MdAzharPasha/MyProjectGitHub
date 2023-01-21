@@ -18,5 +18,6 @@ public static void main(String[] args) {
 		
 	System.out.println("min element is" +min);
 	System.out.println("max element is" +max);
-}}
+}
+}
 }
